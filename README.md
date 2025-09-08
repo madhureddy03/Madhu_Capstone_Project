@@ -1,0 +1,1 @@
+Automation testing project for SwagLabs application using Java, Selenium WebDriver, Cucumber with Gherkin, TestNG, and Page Object Model. Includes feature files, step definitions, page classes, and test reports for validating end-to-end workflows.
